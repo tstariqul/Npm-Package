@@ -1,0 +1,22 @@
+{
+  "name": "shadowimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstariqul/Npm-Package.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "Tariqul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstariqul/Npm-Package/issues"
+  },
+  "homepage": "https://github.com/tstariqul/Npm-Package#readme"
+}
